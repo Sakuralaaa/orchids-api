@@ -32,3 +32,4 @@ jobs:
           name: opus-api-image
           path: opus-api.tar
           if-no-files-found: error
+          retention-days: 14
